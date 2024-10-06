@@ -21,9 +21,9 @@ This project was initiated to develop a scalable, non-invasive method to locate 
 
 ## Features
 
-- Jeju Soil Bacteria Analysis: Selects bacteria from Jeju soil that exhibit changes in population based on plastic concentrations.
-- AI-Based Prediction Model: Utilizes an AI model trained on optical density data of bacteria to predict the presence of buried plastic waste with a probability between 0 and 1.
-- Non-Invasive Plastic Detection: Provides a scalable method to locate buried plastic without disrupting the Hallasan Mountain ecosystem.
+- **Jeju Soil Bacteria Analysis:** Selects bacteria from Jeju soil that exhibit changes in population based on plastic concentrations.
+- **AI-Based Prediction Model:** Utilizes an AI model trained on optical density data of bacteria to predict the presence of buried plastic waste with a probability between 0 and 1.
+- **Non-Invasive Plastic Detection:** Provides a scalable method to locate buried plastic without disrupting the Hallasan Mountain ecosystem.
 
 ## Models
 
