@@ -1,4 +1,4 @@
-# Development of Jeju Soil Bacteria-based AI Model (SBM) for Locating Buried Plastic Wastes in Hallasan Mountain, Jeju Island, South Korea
+# ⛰️ Development of Jeju Soil Bacteria-based AI Model (SBM) for Locating Buried Plastic Wastes in Hallasan Mountain, Jeju Island, South Korea
 
 This project focuses on the development of a Jeju Soil Bacteria-based AI Model (SBM) to predict the location of buried plastic waste in Hallasan Mountain, Jeju Island, South Korea. By analyzing the optical density of soil bacteria that react to microplastics, the AI model predicts areas with high probability of buried plastic waste, providing a scalable and non-invasive solution to plastic waste management in UNESCO World Heritage Sites like Hallasan Mountain.
 
